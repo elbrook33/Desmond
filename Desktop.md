@@ -3,8 +3,7 @@ Desmond - instructions manual
 
 Mouse clicks
 ------------
-* Left-click: opens an app/document.
-* Right-click: shows its actions page - to Favourite (apps only), Open with (documents only), Move to trash, etc.
+* Left-click: opens an app or previews a document.
 * Shift-click: selects up to four apps to show side-by-side (for two or three) or in a grid (for four).
 * Shift-click: selects up to two folders to show one below the other.
 

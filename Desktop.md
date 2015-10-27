@@ -20,12 +20,12 @@ Keyboard shortcuts
 Tree
 ====
 
-Apps -> *.desktop, running apps (open windows)
-Documents -> Downloads/Pictures/Videos...
-Drives -> Thumb drive 1/...
-Sandboxes -> User -> App1/App2/... -> .cache/.config/.local/...
-Software -> User -> Local/Ubuntu/... -> bin/include/...
-System -> Booting/Configuration/Controls/Data/Tools
+* Apps -> *.desktop, running apps (open windows)
+* Documents -> Downloads/Pictures/Videos...
+* Drives -> Thumb drive 1/...
+* Sandboxes -> User -> App1/App2/... -> .cache/.config/.local/...
+* Software -> User -> Local/Ubuntu/... -> bin/include/...
+* System -> Booting/Configuration/Controls/Data/Tools
 
 
 An idea for a desktop
@@ -40,6 +40,7 @@ Differences from that version:
 * Shades of beige/goldenrod instead of grays.
 * Sandboxing.
 
+```
 +------+-----------------+-------------------------------+
 | .--. | Running         |                               |
 | |--| | =======         |                               |
@@ -75,10 +76,7 @@ Differences from that version:
                          ^
                          |
                 Drag here to resize
-
-1-2-13 (Top/Apps/App)
-App pane can split 2, 3 or 4.
-App pane can be dragged left up to full-screen.
+```
 
 Series
 ------

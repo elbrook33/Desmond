@@ -13,18 +13,19 @@ Keyboard shortcuts
 * Meta-A: switch to Apps.
 * Meta-D: switch to Documents.
 * Meta-number: switch workspace (0 through 9).
-* Meta-tab: switch between running apps.
+* Meta-tab, Meta-shift-tab: switch between open windows.
 
 
 Tree
 ====
 
-* Apps -> *.desktop, running apps (open windows)
+* Apps -> *.desktop, folders (bin/lib/share -> usr/local or execs/...), open windows
 * Documents -> Downloads/Pictures/Videos...
 * Drives -> Thumb drive 1/...
 * Sandboxes -> User -> App1/App2/... -> .cache/.config/.local/...
 * Software -> User -> Local/Ubuntu/... -> bin/include/...
 * System -> Booting/Configuration/Controls/Data/Tools
+* Trash -> User 1/...
 
 
 An idea for a desktop
@@ -43,7 +44,7 @@ Differences from that version:
 +------+-----------------+-------------------------------+
 | .--. | Running         |                               |
 | |--| | =======         |                               |
-| '--' |*Firefox         |                               |
+| '--' |*Dashboard       |                               |
 | Apps | Scribus         |                               |
 |      | System Settings |                               |
 | .--. |                 |                               |
@@ -54,7 +55,7 @@ Differences from that version:
 | .--. |                 |                               |
 | |  | | All             |                               |
 | '--' | ===             |                               |
-| Drvs | Ark             |                               |
+| Drvs | Dashboard       |                               |
 |      | Firefox         |                               |
 | .--. | Gimp            |                               |
 | |  | | Scribus         |                               |
@@ -70,6 +71,11 @@ Differences from that version:
 | |  | |                 |                               |
 | '--' |                 |                               |
 | Syst |                 |                               |
+|      |                 |                               |
+| .--. |                 |                               |
+| |  | |                 |                               |
+| '--' |                 |                               |
+| Trsh |                 |                               |
 +------+-----------------+-------------------------------+
 
                          ^

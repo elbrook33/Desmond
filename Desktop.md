@@ -4,7 +4,7 @@ Desmond - instructions manual
 Mouse clicks
 ------------
 * Left-click: select an app or document.
-* Double-click: open an app or previews a document.
+* Double-click: open an app or document.
 * Shift-click: select up to four apps to show side-by-side (for two or three) or in a grid (for four).
 * Shift-click: select up to two folders to show one below the other.
 
